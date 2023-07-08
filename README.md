@@ -7,9 +7,9 @@ REST API in Python using Flask and PyMongo Library.
 3. Start web server:
 ```python app.py```
 # Test Results
-![Screenshot (72)](https://github.com/SahilNagpure07/FlaskApp/assets/76729141/11f7f663-2b6b-4511-80f1-55814abc95a2)
-![Screenshot (73)](https://github.com/SahilNagpure07/FlaskApp/assets/76729141/2b6d8615-9b04-4cef-918d-6cee45eb6b56)
-![Screenshot (74)](https://github.com/SahilNagpure07/FlaskApp/assets/76729141/a83bffa1-943d-4d7b-9691-f4a2211971bf)
-![Screenshot (75)](https://github.com/SahilNagpure07/FlaskApp/assets/76729141/04e0c60a-1c36-44de-9c87-7eb187df86a5)
-![Screenshot (76)](https://github.com/SahilNagpure07/FlaskApp/assets/76729141/06ffb28e-203f-4dbd-a4ae-fa7a6833d66b)
-![Screenshot (77)](https://github.com/SahilNagpure07/FlaskApp/assets/76729141/f322a4f9-c8ef-43b3-8ed3-0855c0413dc9)
+![Screenshot (80)](https://github.com/SahilNagpure07/FlaskApp/assets/76729141/22163434-4a94-46de-8471-7422029c9ef3)
+![Screenshot (81)](https://github.com/SahilNagpure07/FlaskApp/assets/76729141/efce0da8-51f9-4170-866d-7adb8fde5b42)
+![Screenshot (82)](https://github.com/SahilNagpure07/FlaskApp/assets/76729141/c8d47cb6-e260-43b4-8883-51b9739f7ec6)
+![Screenshot (83)](https://github.com/SahilNagpure07/FlaskApp/assets/76729141/5d8ed1f8-4ed4-4dd7-8c5c-17c6ef296161)
+![Screenshot (84)](https://github.com/SahilNagpure07/FlaskApp/assets/76729141/63f964e7-f9a9-4ca6-b5f1-cf37dfdd1940)
+![Screenshot (85)](https://github.com/SahilNagpure07/FlaskApp/assets/76729141/3d138f93-f940-4921-ad01-446c13ef146b)
